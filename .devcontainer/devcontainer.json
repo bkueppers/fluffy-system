@@ -1,0 +1,5 @@
+{
+  "image": "https://mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+  }
+}
